@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Output directories
+/dist/
+
+# Environment files
+.env.local
+
+# macOS system files
+.DS_Store
+
+# IDE configuration files
+*.iml
+*.idea/
+.vscode/
